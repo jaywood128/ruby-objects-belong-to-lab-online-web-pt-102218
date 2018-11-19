@@ -1,5 +1,5 @@
-class Song 
+class Song
 
-  attr_accessor :title 
+  attr_accessor :title
 
 end
